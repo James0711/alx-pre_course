@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 git fetch origin
 git pull origin
+=======
+>>>>>>> 9af3b4a08fd7abc1096ba1af75f31f14444ec4e4
 git fetch origin
